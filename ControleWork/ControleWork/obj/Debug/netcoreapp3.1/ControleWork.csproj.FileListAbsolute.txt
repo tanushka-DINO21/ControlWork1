@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\bin\Debug\netcoreapp3.1\ControleWork.exe
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\bin\Debug\netcoreapp3.1\ControleWork.deps.json
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\bin\Debug\netcoreapp3.1\ControleWork.runtimeconfig.json
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\bin\Debug\netcoreapp3.1\ControleWork.runtimeconfig.dev.json
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\bin\Debug\netcoreapp3.1\ControleWork.dll
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\bin\Debug\netcoreapp3.1\ControleWork.pdb
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\obj\Debug\netcoreapp3.1\ControleWork.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\obj\Debug\netcoreapp3.1\ControleWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\obj\Debug\netcoreapp3.1\ControleWork.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\obj\Debug\netcoreapp3.1\ControleWork.AssemblyInfo.cs
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\obj\Debug\netcoreapp3.1\ControleWork.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\obj\Debug\netcoreapp3.1\ControleWork.dll
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\obj\Debug\netcoreapp3.1\ControleWork.pdb
+C:\Users\HP\Desktop\GeekBrains\Итог блока 1\ControleWork\ControleWork\ControleWork\obj\Debug\netcoreapp3.1\ControleWork.genruntimeconfig.cache
